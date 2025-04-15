@@ -1,6 +1,7 @@
 ## Resources
 
 <details> <summary>Challenge Source Code</summary>
+
 #!/usr/bin/env python3
 
 import json
